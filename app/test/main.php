@@ -7,3 +7,4 @@ class MainTest extends JTestSuite
 		$this->add("test/lesson/main");
 	}
 }
+
