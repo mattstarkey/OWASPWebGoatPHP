@@ -8,3 +8,4 @@ class MainTest extends JTestSuite
 	}
 }
 
+
